@@ -1,0 +1,17 @@
+/* CSS VARIABLES */
+:root {
+	--color-green: #0c5666;
+	--color-black: #444444;
+	--color-dark-gray:#657786;
+	--color-light-gray:#a9b7c1;
+	--color-extra-light-gray:#e1e8ed;
+	--color-white:#f5f8fa;
+
+	--box-shadow: 5px 5px 10px rgba(169, 183, 193, 0.3);
+
+
+
+	/* FONT FAMILY VARIABLES */
+	--lato: "Lato", sans-serif;
+	--raleway: "Raleway", sans-serif;
+}
