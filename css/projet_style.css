@@ -1,8 +1,5 @@
 @charset "UTF-8";
 
-/* import fonts from fonts.css file */
-@import url(fonts.css);
-
 /* import _variables.css file */
 @import url(partials/_variables.css);
 
@@ -90,12 +87,12 @@ header .module-intro .caption-content {
 }
 
 header .module-intro .container-caption .caption-content>h1 {
-    font-size: 35px;
+    font-size: 2.1875em;
     font-weight: 500;
 }
 
 header .module-intro .container-caption .caption-content>h2 {
-    font-size: 20px;
+    font-size: 1.25em;
     font-weight: 300;
     margin-bottom: 30px;
     
@@ -134,7 +131,7 @@ header .module-intro .container-caption .caption-content .fa {
 
 .site-production-skill h3 {
     text-transform: uppercase;
-    font-size: 18px;
+    font-size: 1.125em;
     margin-bottom: 20px;
 }
 
@@ -149,7 +146,7 @@ header .module-intro .container-caption .caption-content .fa {
     padding: 10px 15px;
     color: var(--color-green);
     margin: 5px;
-    font-size: 12px;
+    font-size: 0.75em;
     text-transform: uppercase;
 }
 
@@ -158,7 +155,7 @@ header .module-intro .container-caption .caption-content .fa {
     text-decoration: none;
     text-transform: uppercase;
     color: var(--color-green);
-    font-size: 12px;
+    font-size: 0.75em;
     padding: 50px 0;
 }
 

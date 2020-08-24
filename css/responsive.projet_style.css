@@ -55,16 +55,16 @@
 
 @media only screen and (max-width:375px) {
     header .module-intro .container-caption .caption-content>h1 {
-        font-size: 28px;
+        font-size: 1.75em;
         margin-bottom: 10px;
     }
     header .module-intro .container-caption .caption-content>h2 {
-        font-size: 16px;
+        font-size: 1em;
     }
     .site-prez .content-prez .title-section {
-        font-size: 25px;
+        font-size: 1.5625em;
     }
     .footer .container-copyright .text-copyright {
-        font-size: 10px;
+        font-size: 0.625em;
       }
 }

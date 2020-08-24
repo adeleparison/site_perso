@@ -9,7 +9,7 @@
 
 @media only screen and (max-width:1024px) {
   .name-work {
-    font-size: 16px;
+    font-size: 1em;
   }
 
   /* ABOUT */
@@ -100,7 +100,7 @@
   }
 
   .site-skill .container-skill .rect .box-skill .back .progress {
-    font-size: 10px;
+    font-size: 0.625em;
   }
 
   /* TRAINING */
@@ -191,7 +191,7 @@
 
   /* INTRO */
   header .intro .container-header h1 {
-    font-size: 27px;
+    font-size: 1.6875em;
   }
 
   /* ABOUT */
@@ -234,31 +234,31 @@
 
   .title-section-green,
   .title-section {
-    font-size: 27px;
+    font-size: 1.6875em;
   }
 
   /* INTRO */
   header .intro .container-header h1 {
-    font-size: 27px;
+    font-size: 1.6875em;
     padding: 0 40px;
   }
 
   header .intro .container-header h2 {
-    font-size: 23px;
+    font-size: 1.4375em;
 
   }
 
   .date,
   .location {
-    font-size: 10px;
+    font-size: 0.625em;
   }
 
   .name-work {
-    font-size: 14px !important;
+    font-size: 0.875em !important;
   }
 
   .contract {
-    font-size: 11px;
+    font-size: 0.6875em;
   }
 
   /* SKILL */
@@ -278,7 +278,7 @@
 
   /* FOOTER */
   .footer .container-copyright .text-copyright {
-    font-size: 10px;
+    font-size: 0.625em;
   }
 }
 

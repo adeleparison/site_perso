@@ -13,7 +13,7 @@ header .navbar {
     z-index: 9999 !important;
 }
 header .nav-link {
-    font-size: 14px;
+    font-size: 0.875em;
     margin: 5px;
     color: var(--color-black);
 }
@@ -41,14 +41,14 @@ header .intro .container-header {
 }
 
 header .intro .container-header h2 {
-    font-size: 33px;
+    font-size: 2.0625em;
     font-weight: 300;
     text-transform: uppercase;
     padding-top: 8%;
 }
 
 header .intro .container-header h1 {
-    font-size: 35px;
+    font-size: 2.1875em;
     text-transform: uppercase;
     line-height: 1.1;
     margin-bottom: 20px;
@@ -142,7 +142,7 @@ header .intro .container-header h1 {
     position: relative;
 }
 .site-skill .container-skill .rect .box-skill .text-para {
-    font-size: 15px;
+    font-size: 0.9375em;
     height: 76px;
 }
 .front,
@@ -172,7 +172,7 @@ header .intro .container-header h1 {
     text-transform: uppercase;
     margin-bottom: 5px;
     font-weight: 500;
-    font-size: 17px;
+    font-size: 1.0625em;
     color: var(--color-green);
 }
 
@@ -306,7 +306,7 @@ header .intro .container-header h1 {
     color: var(--color-green);
     text-transform: uppercase;
     font-weight: 400;
-    font-size: 13px;
+    font-size: 0.8125em;
     line-height: 1.3;
 }
 /* END PROJECT */
@@ -339,7 +339,7 @@ header .intro .container-header h1 {
     color: var(--color-white);
     text-transform: uppercase;
     font-weight: 400;
-    font-size: 12px;
+    font-size: 1.375em;
     padding: 8px 0 16px;
     margin: 0;
     opacity: 0.2;
@@ -348,7 +348,7 @@ header .intro .container-header h1 {
 .footer .container-contact .social-network .text-info-contact {
     color: var(--color-white);
     font-weight: 400;
-    font-size: 14px;
+    font-size: 0.875em;
 }
 
 .footer .container-contact .social-network .text-info-contact:hover {
@@ -363,7 +363,7 @@ header .intro .container-header h1 {
 
 .footer .container-copyright .text-copyright {
     font-weight: 300;
-    font-size: 12px;
+    font-size: 0.75em;
     margin: 0;
 }
 
