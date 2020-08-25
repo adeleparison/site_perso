@@ -58,14 +58,16 @@ header {
     color: var(--color-white);
 }
 
-.name-work {
+.name-work, .name-work-exp {
     font-weight: 500;
     font-size: 1.125em;
     text-transform: uppercase;
     margin-bottom: 10px;
     color: var(--color-white);
-    height: 60px;
     letter-spacing: 0.5px;
+}
+.name-work {
+ height: 60px;
 }
 
 .contract {
@@ -82,6 +84,7 @@ header {
     margin-bottom: 0px;
     color: var(--color-white);
 }
+
 
 /* LIST */
 .list-ul {
@@ -115,6 +118,12 @@ header {
 /* ILLUSTRATIONS */
 .drawing-site {
     margin: auto;
+    display: block;
+}
+
+.icon-logiciel {
+    height: 50px;
+    width: 50px;
     display: block;
 }
 
