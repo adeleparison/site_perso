@@ -1,7 +1,4 @@
 @media only screen and (max-width: 992px) {
-    .navbar {
-        
-      }
     .sticky {
         background-color: var(--color-green);
       }
@@ -45,12 +42,6 @@
     .site-production-skill .container-production {
         margin-bottom: 30px;
     }
-}
-@media only screen and (max-width:425px) {
-   
-    /* .site-production-skill .container-production {
-        margin-bottom: 30px;
-    } */
 }
 
 @media only screen and (max-width:375px) {
